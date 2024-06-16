@@ -1,37 +1,3 @@
-/* body{
-  background-color: #333;
-}
-
-.main-container{
-  justify-content: center;
-  align-items: center;
-  border-color: 3px solid red;
-  width: 500px;
-  height: 400px;
-  margin-top: 10%;
-  margin-left: 20%;
-}
-
-.input-container{
-  border-color: 2px solid red;
-  font-family:Verdana, Geneva, Tahoma, sans-serif;
-}
-
-input{
-  font-size: 25px;
-  height: auto;
-}
-
-.add-btn{
-  border-radius: 30px;
-  width: 50px;
-  font-size: 25px;} */
-
-
-  /* App.css */
-
-/* App.css */
-
 body {
   margin: 0;
   font-family: 'Arial', sans-serif;
